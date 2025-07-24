@@ -3,7 +3,7 @@
 A classic **Tic-Tac-Toe** game built with **React.js**, featuring a clean and responsive user interface. Play against a friend on the same device and challenge each other to a strategic battle!
 
 ---
-
+🚀 **[Live Demo](https://letsplaytoe.netlify.app/)** 
 ## ✨ Features
 
 - **Two-Player Mode**: Two players can take turns on the same device.
